@@ -1,0 +1,23 @@
+Date: 11/8/2022
+Time: 21:26
+Group ID: grupow
+Image: ru.jpeg
+Caption: Desde programita de prueba en Python
+--------------------
+Date: 11/8/2022
+Time: 21:27
+Group ID: grupow
+Image: ru.jpeg
+Caption: Desde programita de prueba en Python
+--------------------
+Date: 11/8/2022
+Time: 21:28
+Group ID: grupow
+Image: ru.jpeg
+Caption: Desde programita de prueba en Python
+--------------------
+Date: 11/8/2022
+Time: 21:29
+Group ID: grupow
+Message: Desde programita de prueba en Python
+--------------------
